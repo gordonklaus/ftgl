@@ -1,4 +1,4 @@
-#include "ftgl.h"
+#include "ftgl_go.h"
 #include <FTGL/ftgl.h>
 
 #define F (*(FTFont*)f)

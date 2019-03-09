@@ -1,7 +1,7 @@
 package ftgl
 
 // #cgo pkg-config: ftgl
-// #include "ftgl.h"
+// #include "ftgl_go.h"
 // #include <stdlib.h>
 import "C"
 
